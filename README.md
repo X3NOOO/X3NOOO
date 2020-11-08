@@ -5,7 +5,7 @@
 - I'm a 14-year-old programmer from Poland
 - Currently working on **nothing**
 - I'm trying to learn Java and C
-- BTW i use Arch
+- I use Arch BTW
 
 ## Contact
 - Mail: <a href="mailto:X3NO.contact@protonmail.com">X3NO.contact@protonmail.com</a>
