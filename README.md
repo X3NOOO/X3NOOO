@@ -1,6 +1,6 @@
 <samp>
 
-## Hello! there I'm <a href="">X3NO</a>
+## Hello! there I'm <a href="https://github.com/X3NOOO">X3NO</a>
 
 - I'm a 14-year-old programmer from Poland
 - Currently working on **nothing**
