@@ -4,7 +4,7 @@
 
 - I'm a 14-year-old programmer from Poland
 - Currently working on **nothing**
-- I'm trying to learn Java and Go
+- I'm trying to learn Java and C
 - I use Arch BTW
 
 ## Contact
