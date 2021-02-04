@@ -2,9 +2,9 @@
 
 ## Hello! there I'm <a href="https://github.com/X3NOOO">X3NO</a>
 
-- I'm a 14-year-old programmer from Poland
+- 14-year-old programmer from Poland
 - Currently working on **nothing**
-- I'm trying to learn Java and C
+- Trying to learn C/C++
 - I use Arch BTW
 
 ## Contact
