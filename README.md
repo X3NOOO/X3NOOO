@@ -4,7 +4,7 @@
 
 - 14-year-old programmer from Poland
 - Currently working on **nothing**
-- Trying to learn C/C++
+- Trying to learn C
 - I use Arch BTW
 
 ## Contact
