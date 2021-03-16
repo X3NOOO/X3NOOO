@@ -1,11 +1,10 @@
 <samp>
 
-## Hello! there I'm <a href="https://github.com/X3NOOO">X3NO</a>
+## Hello there! I'm <a href="https://github.com/X3NOOO">X3NO</a>
 
-- 14-year-old programmer from Poland
 - Currently working on **nothing**
 - Trying to learn C
-- I use Arch BTW
+- I use Arch btw
 
 ## Contact
 - Mail: <a href="mailto:X3NO.contact@protonmail.com">X3NO.contact@protonmail.com</a>
