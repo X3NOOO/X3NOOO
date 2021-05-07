@@ -7,7 +7,8 @@
 - I use Arch btw
 
 ## Contact
-- Mail: <a href="mailto:X3NO.contact@protonmail.com">X3NO.contact@protonmail.com</a>
+- PGP fingerprint: <a href="https://raw.githubusercontent.com/X3NOOO/X3NOOO/main/public.asc">CAA6 085F 5AFF 078A ED7F 39F0 4E39 3C86 6370 2AB3</a>
+- Mail: <a href="mailto:X3NO@disroot.org">X3NO@disroot.org</a>
 - Matrix: @x3no:matrix.org
 
 ## Here my stats ⬇️
