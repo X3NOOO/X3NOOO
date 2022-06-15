@@ -7,7 +7,7 @@
 - Mail: <a href="mailto:X3NO@disroot.org">X3NO@disroot.org</a>
 - Matrix: @x3no:matrix.org
 
-## Here my stats ⬇️
+## Stats
 </samp>
 
 ![X3NO's github stats](https://github-readme-stats.vercel.app/api?username=X3NOOO&show_icons=true&theme=github_dark&count_private=true)
