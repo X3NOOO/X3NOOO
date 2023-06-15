@@ -10,5 +10,5 @@ working on *something*...
 ## Stats
 </samp>
 
-![X3NO's github stats](https://github-readme-stats.vercel.app/api?username=X3NOOO&show_icons=true&theme=github_dark&count_private=true)
+<!--![X3NO's github stats](https://github-readme-stats.vercel.app/api?username=X3NOOO&show_icons=true&theme=github_dark&count_private=true)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=X3NOOO&layout=compact&theme=github_dark&count_private=true)
