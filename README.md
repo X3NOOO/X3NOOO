@@ -1,6 +1,6 @@
 <samp>
 
-# Hello there! I'm <a href="https://github.com/X3NOOO">X3NO</a>
+# Hello there! I'm <a href="https://ksenon.net/">X3NO</a>
 working on *something*...
 
 ## Contact
