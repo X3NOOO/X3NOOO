@@ -5,7 +5,7 @@ working on *something*...
 
 ## Contact
 - PGP: <a href="https://raw.githubusercontent.com/X3NOOO/X3NOOO/main/public.asc">CAA6 085F 5AFF 078A ED7F 39F0 4E39 3C86 6370 2AB3</a>
-- Mail: <a href="mailto:X3NO@disroot.org">X3NO@disroot.org</a>
+- Mail: <a href="mailto:contact@ksenon.net">contact@ksenon.net</a> or <a href="mailto:X3NO@disroot.org">X3NO@disroot.org</a>
 
 ## Stats
 </samp>
